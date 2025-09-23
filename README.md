@@ -34,7 +34,7 @@ Kafka를 중심으로 서비스 간 이벤트를 주고받으며, Spring Boot �
 
 ```bash
 # 1. 저장소 클론
-git clone https://github.com/yourname/share-reward-backend.git
+git clone https://github.com/veryyounng/share-reward-backend.git
 cd share-reward-backend
 
 # 2. Docker Compose로 Kafka 실행
